@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cdd3398095703fb4a85e7bc2cab4c40b
+timeCreated: 1502397811
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Sniper: {fileID: 1529039203105872, guid: b7eb0ceb2f6e6df4197e94e57ff84ba8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
